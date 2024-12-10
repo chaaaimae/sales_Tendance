@@ -1,0 +1,3 @@
+com\mycompany\salesorderdata\SalesMapper.class
+com\mycompany\salesorderdata\SalesDriver.class
+com\mycompany\salesorderdata\SalesReducer.class
