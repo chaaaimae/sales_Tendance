@@ -1,0 +1,6 @@
+CandidateA Supporter1
+CandidateB Supporter2
+CandidateA Supporter3
+CandidateC Supporter4
+CandidateB Supporter5
+CandidateA Supporter6
